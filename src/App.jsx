@@ -12,8 +12,8 @@ function App() {
         webcamEnabled: true,
         name: "Umer's Org",
       }}
-      token="your_token_here" // Ensure to replace with a valid token
-    >
+      token="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcGlrZXkiOiJlNDAwYjQyOS05NzRmLTRmNWUtOWMwNi02ZmNhODUwN2E5N2UiLCJwZXJtaXNzaW9ucyI6WyJhbGxvd19qb2luIl0sImlhdCI6MTczMDQwNTE3MywiZXhwIjoxNzMwNDkxNTczfQ.fLQ3-UYllx9ZmFtELwHBjuhD057gHSzj1bXVjmGf9Us"
+      >
       <MeetingView />
     </MeetingProvider>
   );
