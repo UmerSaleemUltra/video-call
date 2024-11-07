@@ -23,7 +23,7 @@ export default function Component() {
         webcamEnabled: !audioOnly,
         name: userName,
       }}
-      token="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcGlrZXkiOiJlNDAwYjQyOS05NzRmLTRmNWUtOWMwNi02ZmNhODUwN2E5N2UiLCJwZXJtaXNzaW9ucyI6WyJhbGxvd19qb2luIl0sImlhdCI6MTczMDU2MDI4NSwiZXhwIjoxNzMwNjQ2Njg1fQ.5d8lVSQ36Yiv-MtE9CbFsv09JfISXTS-QJNnnPGLaFM"
+      token="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcGlrZXkiOiJlNDAwYjQyOS05NzRmLTRmNWUtOWMwNi02ZmNhODUwN2E5N2UiLCJwZXJtaXNzaW9ucyI6WyJhbGxvd19qb2luIl0sImlhdCI6MTczMTAyMDY0OSwiZXhwIjoxNzMxMTA3MDQ5fQ.v7dUVwhVs3xBGq39kv1VqIMNj8NDQNbROQDoyss0Aw8"
       >
       <MeetingView 
         setUserName={setUserName} 
